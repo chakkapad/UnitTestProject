@@ -1,4 +1,5 @@
 # 643450065-4 จักรพรรดิื อนุไพร
+
 ข้อ 1 
   TestMethod
     สร้าง public void TestMethod1()
@@ -6,6 +7,7 @@
     int intput 1020 
     ประกาศ result เป็น string ส่งเข้าไปใน assigamentClass ใน Method greadCalculate 
     ค่าที่คาดว่าจะได้เป็น A 
+    
 ข้อ 2 
   TestMethod
     สร้าง public void TestMethod2()
@@ -22,6 +24,7 @@
      รับค่าข้อมูลเป็น double (3 -2 -7 8)
      ประกาศ result เป็น double ส่งเข้าไปใน assigamentClass ใน Method getDistance
     ค่าที่คาดว่าจะได้ เป็น 14.14
+    
 ข้อ 3 
    TestMethod
     สร้าง public void TestMethod3()
@@ -29,6 +32,7 @@
     รับค่าข้อมูลเป็น int (8)
     ประกาศ result เป็น int ส่งเข้าไปใน assigamentClass ใน Method getFactorial 
     ค่าที่คาดว่าจะได้ เป็น 40320
+    
 ข้อ 4
    TestMethod
     สร้าง public void TestMethod4()
